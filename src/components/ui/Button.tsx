@@ -27,9 +27,9 @@ const Button: React.FC<ButtonProps> = ({
 
   const variantStyles = {
     filled:
-      "bg-blue-600 text-white hover:bg-blue-700 active:bg-blue-800",
+      "bg-primary text-white hover:bg-blue-700 active:bg-primary",
     outline:
-      "border border-blue-600 text-blue-600 hover:bg-blue-50",
+      "border border-primary text-primary hover:bg-primary hover:text-white",
     text:
       "text-blue-600 hover:bg-blue-50",
   };

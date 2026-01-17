@@ -10,10 +10,10 @@ export default function Footer() {
         {/* Brand */}
         <div className="md:col-span-2">
         <img src="/logo.png" alt="Zuvara Logo" className="w-32 mb-4" />
-          <p className="text-sm text-black/70 max-w-sm">
-            Empowering teams to achieve success through intuitive UI and
+        <p className="text-sm text-black/70 max-w-sm">
+            Empowering teams to achieve success through intuitive UI an
             seamless collaboration.
-          </p>
+            </p>
 
           {/* Socials */}
           <div className="flex gap-4 mt-6">
